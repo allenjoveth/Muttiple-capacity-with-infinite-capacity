@@ -24,8 +24,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
-#### Developed by: PREM KUMAR G
-#### Register number: 212223230158
+#### Developed by: ALLEN JOVETH P
+#### Register number: 212223240007
 ```
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -60,7 +60,8 @@ else:
 print("--------------------------------------------------------------")
 ```
 ## Output :
-![Screenshot 2024-04-24 085737](https://github.com/PremkumarG3/Muttiple-capacity-with-infinite-capacity/assets/138955646/7586fe32-ec6b-42ff-8ba9-dc24c4b67d44)
+![output](https://github.com/allenjoveth/Muttiple-capacity-with-infinite-capacity/assets/139422287/3fc88ebf-1a3d-44f4-8d5f-3f9a4f8262ee)
+
 
 ## Result : 
 Therefore the program for Multiple server with infinite capacity - (M/M/c):(oo/FIFO) was executed successfully.
